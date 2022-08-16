@@ -19,4 +19,4 @@ This is an exercise project where I imitated the Ayomide site template to hone m
 
 ## Contact
 
-Created by [@Guitaristpeet](https://github.com/Guitaristpeet) - feel free to contact me!
+Created by [@SutheeDev](https://github.com/SutheeDev) - feel free to contact me!
