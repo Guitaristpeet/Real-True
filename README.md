@@ -11,6 +11,7 @@ This is an exercise project where I imitated the Ayomide site template to hone m
 - HTML5
 - CSS3
 - JavaScript ES6
+- in-view.js
 
 ## Acknowledgements
 
